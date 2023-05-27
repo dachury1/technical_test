@@ -8,7 +8,9 @@ Brief description or introduction of the project.
 
 1. Make sure you have Flutter installed on your machine. You can follow the installation instructions in the official Flutter documentation: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
 
-2. Clone this repository to your local machine : [https://github.com/dachury1/technical_test.git](https://github.com/dachury1/technical_test.git)
+2. Clone this repository to your local machine.
+
+    [https://github.com/dachury1/technical_test.git](https://github.com/dachury1/technical_test.git)
 
 3. Open the project in your preferred development environment (e.g., Android Studio, Visual Studio Code, etc.).
 
