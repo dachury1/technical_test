@@ -1,8 +1,8 @@
-# Project Name
+# Technical Test
 
 Flutter Technical Test App
 
-Brief description or introduction of the project.
+this project is a technical test.
 
 ## Installation
 
