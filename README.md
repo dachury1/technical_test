@@ -22,13 +22,15 @@ Brief description or introduction of the project.
 
 2. Run the following command in your terminal:
 
-```flutter run```
+    ```bash
+    flutter run
+    ```
 
 3. The application will run on the emulator or device.
 
 4. Tap anywhere on the screen to change the background color randomly.
 
-5. A button will be generated at a random location on the screen.
+5. A button will be randomly generated.
 
 6. Tap the button to trigger one of the following random actions:
    - Display a joke on the screen.
